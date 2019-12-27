@@ -1,7 +1,7 @@
 README
 ------
 
-Mailmaster Label is a tool that share the labels with google domain colleagues or others that share the same script instance.
+Mailmaster Label is a tool that used to label an email thread and share the labels with others that install the same script.
 
 ADMIN INSTALLATION
 -----------------
