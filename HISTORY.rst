@@ -1,80 +1,50 @@
 History
 =======
 
-1.2.3 (2018-08-21)
+
+0.2.0 (2019-11-27)
 ------------------
 
-* 
+* First simple demo release
 
-1.2.2 (2018-04-02)
+0.1.9 (2019-11-26)
 ------------------
 
-* 
+* Fixed a minor bug in the user interface of the web app
+* Fixed all the errors that founded
 
-
-1.2.1 (2018-02-01)
-------------------
-
-* 
-
-
-1.2.0 (2018-02-01)
-------------------
-
-* 
-
-1.1.0 (2017-09-23)
-------------------
-
-* 
-
-1.0.0 (2017-08-29)
-------------------
-
-* 
-
-0.2.2 (2017-07-07)
-------------------
-
-* 
-
-0.2.1 (
-------------------
-
-
-0.2.0 (2017-07-03)
-------------------
-
-* 
-
-
-0.1.9 (2017-06-03)
-------------------
-
-* 
-
-0.1.8 (2017-04-22)
+0.1.8 (2019-11-25)
 -------------------
 
-* 
+* Test run and debugged the code
 
-
-0.1.7 (2017-04-20)
+0.1.8 (2019-11-22)
 -------------------
 
-*
+* Coded a simple demo completely
+
+
+0.1.7 (2019-11-20)
+-------------------
+
+* Added subscription function to enable the user to subscribe the email label/category
 
 
 0.1.6 (2019-11-18)
 -------------------
 
-* 
+* Added synchronization function (updated time for the email label)
+
+0.1.6 (2019-11-15)
+-------------------
+
+* Added the important function such as install function, uninstall function and so on 
 
 
 0.1.5 (2019-11-14)
 -------------------
 
-*Added Javascript to user interface of the web app
+* Added Javascript to user interface of the web app
 
 
 0.1.4 (2019-11-13)
