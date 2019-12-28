@@ -28,10 +28,10 @@ at installation time.
 
 ADMIN FUNCTION
 --------------
-Admin can name the group that uses the label -- this is just a descriptive name 
+* Admin can name the group that uses the label -- this is just a descriptive name 
 for the purposes of this configuration screen. 
-Admin can create a new *label* -- a label use to label the email thread
-An *unlabel* -- a label use to trigger removal of the actual label.
+* Admin can create a new *label* -- a label use to label the email thread
+* An *unlabel* -- a label use to trigger removal of the actual label.
 
 For instance, a label named "good", and choose
 the unlabel of "bad" -- when an email thread is mislabeled
@@ -43,6 +43,7 @@ the unlabel of "bad" -- when an email thread is mislabeled
 SYNC FREQUENCY
 --------------
 
+After Admin label the email thread,
 Synchronization is NOT immediate -- it will generally occur at
 whatever twice the value of UPDATE_MINUTES (around 10 minutes) 
 is set to at the top of Code.gs.
