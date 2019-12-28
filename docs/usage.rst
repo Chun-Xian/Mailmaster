@@ -2,7 +2,7 @@
 Usage
 =====
 
-How to use Mailmaster Label web app
+To use Mailmaster Label web app
 ------------------------------------
 
 
