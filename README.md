@@ -44,7 +44,7 @@ SYNC FREQUENCY
 --------------
 
 After Admin label the email thread,
-Synchronization is NOT immediate -- it will generally occur at
+SYNCHRONIZATION is NOT immediate -- it will generally occur at
 whatever twice the value of UPDATE_MINUTES (around 10 minutes) 
 is set to at the top of Code.gs.
 
