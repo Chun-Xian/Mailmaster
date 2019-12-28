@@ -3,6 +3,9 @@ README
 
 Mailmaster Label is a tool that used to label an email thread and share the labels with others that install the same script.
 
+Requirement to run the code
+----------------------------
+* Google App Script
  
 USER INSTALLATION
 ----------------------
