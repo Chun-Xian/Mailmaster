@@ -65,36 +65,36 @@ History
 *
 
 
-0.1.6 (2017-04-13)
+0.1.6 (2019-11-18)
 -------------------
 
 * 
 
 
-0.1.5 (2017-03-30)
+0.1.5 (2019-11-14)
 -------------------
 
-*
+*Added Javascript to user interface of the web app
 
 
-0.1.4 (2017-03-21)
+0.1.4 (2019-11-13)
 -------------------
 
-* 
+* Added CSS to user interface of the web app
 
 
-0.1.3 (2017-03-16)
+0.1.3 (2019-11-11)
 ------------------
 
-* 
+* Made changes the 'add on' user interface to web app user interface
 
-0.1.2 (2017-03-16)
+0.1.2 (2019-11-4)
 ------------------
 
-* 
+* Designed the 'add on' user interface for the email label/category
 
 
-0.1.1 (2019-09-25)
+0.1.1 (2019-10-30)
 ------------------
 
-* First working release.
+* Start the coding process by using Google App Script
