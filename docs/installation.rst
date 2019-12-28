@@ -12,7 +12,7 @@ To install Mailmaster Label from code, follow the steps below:
  * Browse https://script.google.com (choose New Project => scripting platform)
  * Copy the sample code of "Code.gs" into the text editor
  * Click File > Save menu and name the script (e.g. "Mailmaster Label")
- * Click File > New > Html file menu and create a file called "ui"
+ * Click File > New > Html file menu and create a file called "interface"
  * Copy the sample code of "ui.html" into the created file
  * Click Publish > Deploy as Web App menu
  * Click "Save new version" (no need for any text in the box)
