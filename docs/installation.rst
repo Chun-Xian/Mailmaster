@@ -4,48 +4,18 @@
 Installation
 ============
 
+ADMIN INSTALLATION
+-----------------
+To install Mailmaster Label from code:
 
-Stable release
---------------
-
-To install Face Recognition, run this command in your terminal:
-
-.. code-block:: console
-
-    $ pip3 install face_recognition
-
-This is the preferred method to install Face Recognition, as it will always install the most recent stable release.
-
-If you don't have `pip`_ installed, this `Python installation guide`_ can guide
-you through the process.
-
-.. _pip: https://pip.pypa.io
-.. _Python installation guide: http://docs.python-guide.org/en/latest/starting/installation/
-
-
-From sources
-------------
-
-The sources for Face Recognition can be downloaded from the `Github repo`_.
-
-You can either clone the public repository:
-
-.. code-block:: console
-
-    $ git clone git://github.com/ageitgey/face_recognition
-
-Or download the `tarball`_:
-
-.. code-block:: console
-
-    $ curl  -OL https://github.com/ageitgey/face_recognition/tarball/master
-
-Once you have a copy of the source, you can install it with:
-
-.. code-block:: console
-
-    $ python setup.py install
-
-
-.. _Github repo: https://github.com/ageitgey/face_recognition
-.. _tarball: https://github.com/ageitgey/face_recognition/tarball/master
+ * Browse https://script.google.com (choose New Project => scripting platform)
+ * Copy the sample code of "Code.gs" into the text editor
+ * Click File > Save menu and name the script (e.g. "Mailmaster Label")
+ * Click File > New > Html file menu and create a file called "ui"
+ * Copy the sample code of "ui.html" into the created file
+ * Click Publish > Deploy as Web App menu
+ * Click "Save new version" (no need for any text in the box)
+ * Change "Execute the app as" to "User accessing the web app"
+ * For "Who has access to the app", set access to "Anyone" or "Anyone within (yourdomain.com)"
+ * Click Deploy
+ * Copy "Current web app URL" and share the URL to all the users for installation
