@@ -48,7 +48,6 @@ SYNCHRONIZATION is NOT immediate -- it will generally occur at
 whatever twice the value of UPDATE_MINUTES (around 10 minutes) 
 is set to at the top of Code.gs.
 
-(Note that Google only allows certain values for UPDATE_MINUTES;
- It can also be 5 or 10)
+(Note that Google only allows certain values for UPDATE_MINUTES)
 
 
