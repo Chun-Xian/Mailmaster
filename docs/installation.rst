@@ -6,7 +6,7 @@ Installation
 
 ADMIN INSTALLATION
 -----------------
-To install Mailmaster Label from code:
+To install Mailmaster Label from code, follow the steps below:
 
  * Browse https://script.google.com (choose New Project => scripting platform)
  * Copy the sample code of "Code.gs" into the text editor
